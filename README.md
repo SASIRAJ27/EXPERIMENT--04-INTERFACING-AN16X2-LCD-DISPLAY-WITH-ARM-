@@ -203,7 +203,8 @@ developedby: sasirajkumar t j
 
 
 ## Output screen shots of proteus  :
- ![Screenshot (5)](https://user-images.githubusercontent.com/113497176/234244574-7f733f9e-b8e7-4344-b4cf-89fefbe7f8a1.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/113497176/234247899-1cdaf834-3e12-4a4a-a941-93fb9314968a.png)
+
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
