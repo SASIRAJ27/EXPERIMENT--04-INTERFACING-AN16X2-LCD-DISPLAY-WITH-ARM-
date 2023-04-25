@@ -195,6 +195,9 @@ int main(void)
     	  	  Lcd_string(&lcd,"G.Chethan Kumar");
   }
 }
+
+developedby: sasirajkumar t j
+212222230137
 ```
 
 
